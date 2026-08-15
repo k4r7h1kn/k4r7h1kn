@@ -16,7 +16,7 @@
 
  
 ## 🌐 Connect with Me
-<a href="https://x.com/0xkarthi" target="_blank">
+<a href="https://x.com/0xkarthikn" target="_blank">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)" />
 </a>
 <a href="https://www.linkedin.com/in/0xkarthi" target="_blank">
