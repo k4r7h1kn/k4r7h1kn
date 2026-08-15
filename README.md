@@ -16,19 +16,13 @@
 
  
 ## 🌐 Connect with Me
-<a href="https://twitter.com/k4r7h1kn" target="_blank">
+<a href="https://x.com/0xkarthi" target="_blank">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)" />
 </a>
-<a href="https://www.linkedin.com/in/YOUR_USERNAME" target="_blank">
+<a href="https://www.linkedin.com/in/0xkarthi" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn" />
 </a>
-<a href="https://www.instagram.com/k4r7h1kn" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-</a>
-<a href="https://t.me/k4r7h1kn" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
-</a>
-<a href="https://medium.com/@k4r7h1kn" target="_blank">
+<a href="https://medium.com/@0xkarthi" target="_blank">
     <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
 </a>
 
